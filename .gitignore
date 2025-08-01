@@ -1,3 +1,29 @@
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment
+test.env
+.env
+*.env
+
+# Gradio
+.gradio/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# System files (macOS)
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Output images (optional if saving generated images)
+outputs/
